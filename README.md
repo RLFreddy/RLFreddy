@@ -2,7 +2,7 @@
 
 ### Software & AI Engineer | Building Autonomous Agents & Scalable Infrastructure
 
-I am a Full Stack Developer & AI Specialist with **4+ years of experience** engineering high-performance technical infrastructures. My focus lies in the full development lifecycle: from robust backend architectures using **Go, Python, and TypeScript** to modern **Frontend** interfaces and the implementation of **Agentic AI** systems.
+I am a Full Stack Developer & AI Specialist sinse **2021** engineering high-performance technical infrastructures. My focus lies in the full development lifecycle: from robust backend architectures using **Go, Python, and TypeScript** to modern **Frontend** interfaces and the implementation of **Agentic AI** systems.
 
 Currently, I am the **Founder of CrawlMetrix**, specializing in competitive intelligence and data automation.
 
