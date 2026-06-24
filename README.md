@@ -38,7 +38,7 @@ Currently, I am the **Founder of CrawlMetrix**, specializing in competitive inte
 ### 🚀 What I'm Working On
 
 - 🤖 **Agentic AI & RAG:** Designing stateful, multi-agent workflows using **LangChain** and **LangGraph**, with **LangSmith** for observability. Building End-to-End RAG pipelines with local models for private semantic search.
-- 🕷️ **Advanced Web Scraping:** Founder of **CrawlMetrix**. Developing anti-bot resistant scraping bots utilizing **Go (Golang), Python, and Node.js**. I implement advanced strategies (TLS fingerprinting, header emulation, human-like interaction) to process 20000+ pages/day with a 98% success rate.
+- 🕷️ **Advanced Web Scraping:** Founder of **CrawlMetrix**. Developing anti-bot resistant scraping bots utilizing **Go (Golang), Python, and Node.js**. I implement advanced strategies (TLS fingerprinting, header emulation, human-like interaction) to process 10M+ pages/day with a 98% success rate.
 - 💻 **Full Stack Architectures:** Building scalable solutions with Hexagonal Architecture, integrated with modern, responsive frontends (React/Vue) and optimized cloud deployments.
 
 ---
